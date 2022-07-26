@@ -1,7 +1,7 @@
 ﻿# Project Name/Title Goes Here
 This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **Miguel Perez** | **Millennium Brooklyn High School** | **Area of Interest** | **12th** |
 |:--:|:--:|:--:|:--:|
 | Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
 
