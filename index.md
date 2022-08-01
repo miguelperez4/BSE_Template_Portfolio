@@ -3,7 +3,7 @@ Safes need the best security to protect your valuables, and this safe will conta
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Miguel Perez | Millennium Brooklyn High School | **** | Incoming Senior
+| Miguel Perez | Millennium Brooklyn High School | Electrical Engineering | Incoming Senior
 
 ![Headstone Image](https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/4655d8c4b2f1d0fa5912511d0b39542520b9f88e/branding/BlueStamp-Engineering-Logo-White.png)
   
