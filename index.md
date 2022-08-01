@@ -1,5 +1,5 @@
 ﻿# Fingerprint ID Safe with Keypad
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+Safes need the best security to protect your valuables, and this safe will contain two different measures of safety: the fingerprint sensor and keypad.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
