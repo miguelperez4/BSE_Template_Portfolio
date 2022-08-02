@@ -1,5 +1,5 @@
 ﻿# Fingerprint ID Safe with Keypad
-Safes need the best security to protect your valuables, and this safe will contain two different measures of safety: the fingerprint sensor and keypad. No one shares the same fingerprint pattern, so access to the safe is exclusive to you.
+Safes need the best security to protect your valuables, and this safe will contain two different measures of safety: the fingerprint sensor and keypad. No one shares the same fingerprint pattern, so access to the safe is exclusive to you. The keypad will provide another layer of protection as only you will have memory of the code.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
