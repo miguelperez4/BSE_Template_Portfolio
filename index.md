@@ -19,6 +19,6 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
   
 
-My first milestone was enrolling my fingerprint onto the fingerprint module to make the servo motor rotate. I first had to correctly wire the fingerprint sensor to the arduino board and then upload code from the Adafruit Fingerprint Sensor Library to the arduino board to enroll my fingerprint onto the sensor.
+My first milestone was enrolling my fingerprint onto the fingerprint module to make the servo motor rotate. I first had to correctly wire the fingerprint sensor to the Arduino board and then upload code from the Adafruit Fingerprint Sensor Library to the Arduino board to enroll my fingerprint onto the sensor. I enrolled my fingerprint by saving it as "ID 1" and then placing my finger on the fingerprint sensor while it lit up. 
 
 [![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659388711/video_to_markdown/images/youtube--vZ3ouX8SA2c-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/vZ3ouX8SA2c "Milestone 1"){:target="_blank" rel="noopener"}
