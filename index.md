@@ -15,7 +15,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 
 
-My second milestone was setting up a password on the keypad to make the servo motor rotate. I first correctly wired both the keypad and the servo motor onto the Arduino board and entered the correct password on the code I used. The serial monitor will appear as "incorrect" when I enter the wrong password and will appear as "correct" when I enter the right password, which is "37A23]," and cause the servo motor to rotate.
+My second milestone was setting up a password on the keypad to make the servo motor rotate. I first correctly wired both the keypad and the servo motor onto the Arduino board and entered the correct password on the code I used. The serial monitor will appear as "incorrect" when I enter the wrong password and will appear as "correct" when I enter the right password, which is 37A23, and cause the servo motor to rotate.
 
 [![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1660245951/video_to_markdown/images/youtube--levklaeHm24-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/levklaeHm24 "Milestone 2"){:target="_blank" rel="noopener"}
 
