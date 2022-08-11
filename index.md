@@ -39,7 +39,7 @@ Total cost:
 | Fingerprint Sensor  | 1  | $22.79  | https://www.amazon.com/Optical-Fingerprint-Reader-Arduino-Mega2560/dp/B077GKPWMN  |
 | 4x4 Keypad  | 1  | $1.60 each  | https://www.amazon.com/Matrix-Membrane-Switch-Keyboard-Arduino/dp/B07THCLGCZ  |
 | Servo Motor  | 1  | $15.99  | https://www.amazon.com/ANNIMOS-Digital-Waterproof-DS3218MG-Control/dp/B076CNKQX4  |
-| Jumper Wires  | 23  | $0.20 each  | https://www.amazon.com/BOJACK-Solderless-Flexible-Breadboard-Connecting/dp/B08YRPWC8L  |
+| Jumper Wires  | 23  | $0.20 each  | https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78  |
 | String  | 1  | $4.99  | https://www.amazon.com/White-Cotton-Butchers-Twine-String/dp/B09TQXBFYD  |
 | Tape  | 1  | $9.84  | https://www.amazon.com/ScotchBlue-2098-36D-Platinum-Painters-Tape/dp/B01FIIXXQ6  |
 | Cardboard  | 1  | $0.51  | https://www.amazon.com/Juvale-Corrugated-Cardboard-Sheets-Inches/dp/B07TDH6XG9  |
