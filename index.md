@@ -31,6 +31,8 @@ My first milestone was enrolling my fingerprint onto the fingerprint module to m
 
 # Bill of Materials 
 
+Total cost: 
+
 | Item | Qty | Price | Where to Buy |
 | ------------- | ------------- | ------------- | ------------- |
 | Arduino UNO REV3  | 1  | $24.49  | https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6  |
