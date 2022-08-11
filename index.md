@@ -9,7 +9,9 @@ Safes need the best security to protect your valuables, and this safe will conta
 
 
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+
+
+My final milestone was to make the fingerprint sensor and the keypad work together to rotate the servo motor and provide double the protection for the safe. I wired the fingerprint sensor, keypad, and servo motor onto the Arduino board then I combined the codes from my previous milestones to make a final code that works everything together. A correct fingerprint and keypad password are required to rotate the servo motor and open the door, so it will not work when one of them is incorrect.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1660246216/video_to_markdown/images/youtube--xr4aomYz9q4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/xr4aomYz9q4 "Final Milestone"){:target="_blank" rel="noopener"}
 
