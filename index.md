@@ -52,6 +52,8 @@ Total cost: $113.53
 | Cardboard  | 1  | $0.51  | https://www.amazon.com/Juvale-Corrugated-Cardboard-Sheets-Inches/dp/B07TDH6XG9  |
 | Hot Glue Gun With Sticks  | 1  | $19.95  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP  |
 
+# Schematics
+
 # Fingerprint ID Safe with Keypad Code
 
 ``` 
