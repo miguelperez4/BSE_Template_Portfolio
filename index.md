@@ -68,6 +68,9 @@ Correctly wire the fingerprint sensor and the servo motor onto the Arduino board
 Step #3
 Correctly wire the keypad onto the Arduino board with the fingerprint sensor and servo motor connected from the previous step. In the code provided below, the 12th line states "char Master[Password_Length] = "37A23";" and you will be able to change the password to any five-digit or letter combination that you desire. Next, open the serial monitor and enter the correct password that you set up and enter it on the keypad, and "correct" appear on the serial monitor.
 
+Step #4
+Now that you enrolled your fingerprint on the fingerprint sensor and created a password for the keypad, you will be able to make the servo motor rotate. Open the serial monitor and place your correct fingerprint on the fingerprint sensor and wait until the serial monitor says it "found a print match." Next, enter the valid password on the keypad, and the servo motor will rotate.
+
 
 # Fingerprint ID Safe with Keypad Code
 
