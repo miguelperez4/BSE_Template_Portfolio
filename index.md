@@ -21,7 +21,7 @@ The project was my first time trying engineering because I had no prior experien
 # Presentation Slideshow
 
 <p align="center">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSr-Lzwv5cberwNZWMAUNacJIEOsH8lGnL7W_GhYkzTjhZG74Azs2LDKX8ISUHCXQerntDH49Ic6i_E/embed?start=true&loop=true&delayms=3000" frameborder="0" width="600" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSr-Lzwv5cberwNZWMAUNacJIEOsH8lGnL7W_GhYkzTjhZG74Azs2LDKX8ISUHCXQerntDH49Ic6i_E/embed?start=true&loop=true&delayms=3000" frameborder="0" width="650" height="350" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </p>
 
 # Final Milestone
