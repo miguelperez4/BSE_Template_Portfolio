@@ -65,6 +65,8 @@ Download Arduino IDE for your respective operating systems (Windows or Mac) or o
 Step #2
 Correctly wire the fingerprint sensor and the servo motor onto the Arduino board by following the schematics. Next, download the Adafruit Fingerprint Library to upload the code "Enroll" and open the serial monitor. The fingerprint sensor should be lightning up, and you will have to type an ID number that you want to save your finger as onto the serial monitor and then place one of your fingers on the sensor to enroll it. 
 
+Step #3
+
 
 # Fingerprint ID Safe with Keypad Code
 
