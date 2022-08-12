@@ -4,6 +4,10 @@ Safes need the best security to protect your valuables, and this safe will conta
 # About Me
 The project was my first time trying engineering because I had no prior experience with it or coding, so I wanted to give this project a try and gain new knowledge. Although the process was frustrating, I became satisfied with what I created considering it was my first time.
 
+<p align="center">
+<a href="https://ibb.co/PWmCVyh"><img src="https://i.ibb.co/3FrhPbN/IMG-4775.jpg" alt="IMG-4775" border="0"></a>
+</p>
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Miguel Perez | Millennium Brooklyn High School | Electrical Engineering | Incoming Senior
