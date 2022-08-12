@@ -69,8 +69,10 @@ Correctly wire the fingerprint sensor and the servo motor onto the Arduino board
 Correctly wire the keypad onto the Arduino board with the fingerprint sensor and servo motor connected from the previous step. In the code provided below, the 12th line states "char Master[Password_Length] = "37A23";" and you will be able to change the password to any five-digit or letter combination that you desire. Next, open the serial monitor and enter the correct password that you set up and enter it on the keypad, and "correct" appear on the serial monitor.
 
 **Step #4** <br />
-Now that you enrolled your fingerprint on the fingerprint sensor and created a password for the keypad, you will be able to make the servo motor rotate. Open the serial monitor and place your correct fingerprint on the fingerprint sensor and wait until the serial monitor says it "found a print match." Next, enter the valid password on the keypad, and the servo motor will rotate.
+Now that you enrolled your fingerprint on the fingerprint sensor and created a password for the keypad, you will be able to make the servo motor rotate. Open the serial monitor and place your correct fingerprint on the fingerprint sensor and wait until the serial monitor says it "found a print match." Next, enter the valid password on the keypad, and the servo motor will rotate.\
 
+**Step #5** <br />
+The final step will now be to build your safe using cardboard and cut a small door on one of the sides. Glue the keypad outside the box and make a small hole to keep the wires connected to the Arduino board. The fingerprint sensor should be outside the box and make another small hole to stay connected to the Arduino board. Next, glue the servo motor onto the base of the safe and tie one end of a piece of string around the part that rotates. Glue the other end of the string to the inside of the door, so when the servo motor rotates, it pulls the string and door open.
 
 # Fingerprint ID Safe with Keypad Code
 
