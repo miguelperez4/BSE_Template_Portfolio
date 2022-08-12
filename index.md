@@ -14,8 +14,7 @@ The project was my first time trying engineering because I had no prior experien
 # Presentation Slideshow
 
 <p align="center">
-<iframe src="https://docs.google.com/presentation/d/1UHRe4euwXLA001kdskTZnMEoiOJf4JZp6baKYkGstNM/edit#slide=id.g143baba31e0_0_82" frameborder="0" frameborder="0" width="760" height="369" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSr-Lzwv5cberwNZWMAUNacJIEOsH8lGnL7W_GhYkzTjhZG74Azs2LDKX8ISUHCXQerntDH49Ic6i_E/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 # Final Milestone
@@ -56,6 +55,7 @@ Total cost: $113.53
 | Hot Glue Gun With Sticks  | 1  | $19.95  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP  |
 
 # Schematics
+I used the two schematics below and adjusted them to fit together on the Arduino board.
 
 
 # Building Process
