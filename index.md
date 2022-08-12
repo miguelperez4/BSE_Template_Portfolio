@@ -2,6 +2,7 @@
 Safes need the best security to protect your valuables, and this safe will contain two different measures of safety: the fingerprint sensor and keypad. No one shares the same fingerprint pattern, so access to the safe is exclusive to you. The keypad will provide another layer of protection as only you will have memory of the code.
 
 # About Me
+The project was my first time trying engineering because I had no prior experience with it or coding, so I wanted to give this project a try and gain new knowledge. Although the process was frustrating, I became satisfied with what I created considering it was my first time.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
