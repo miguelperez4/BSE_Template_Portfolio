@@ -69,7 +69,7 @@ I used the two schematics below and adjusted them to fit together on the Arduino
 </p>
 
 <p align="center">
-<a href="https://ibb.co/QbCHbGv"><img src="https://i.ibb.co/gjPWjCZ/Screenshot-2022-08-12-3-32-49-PM.png" alt="Screenshot-2022-08-12-3-32-49-PM" border="0"></a>
+<a href="https://ibb.co/QbCHbGv"><img src="https://i.ibb.co/gjPWjCZ/Screenshot-2022-08-12-3-32-49-PM.png" alt="Screenshot-2022-08-12-3-32-49-PM" border="0" height="600" width="500"></a>
 </p>
 
 # Building Process
