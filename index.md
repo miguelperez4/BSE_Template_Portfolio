@@ -61,6 +61,10 @@ I used the two schematics below and adjusted them to fit together on the Arduino
 <a href="https://ibb.co/1q0rnjr"><img src="https://i.ibb.co/gTrS7hS/Screenshot-2022-08-12-3-33-34-PM.png" alt="Screenshot-2022-08-12-3-33-34-PM" border="0"></a>
 </p>
 
+<p align="center">
+<a href="https://ibb.co/QbCHbGv"><img src="https://i.ibb.co/gjPWjCZ/Screenshot-2022-08-12-3-32-49-PM.png" alt="Screenshot-2022-08-12-3-32-49-PM" border="0"></a>
+</p>
+
 # Building Process
 
 **Step #1** <br />
