@@ -59,16 +59,16 @@ Total cost: $113.53
 
 # Building Process
 
-Step #1
+Step #1 <br />
 Download Arduino IDE for your respective operating systems (Windows or Mac) or open the Arduino Editor on your browser for a Chromebook.
 
-Step #2
+Step #2 <br />
 Correctly wire the fingerprint sensor and the servo motor onto the Arduino board by following the schematics. Next, download the Adafruit Fingerprint Library to upload the code "Enroll" and open the serial monitor. The fingerprint sensor should be lightning up, and you will have to type an ID number that you want to save your finger as onto the serial monitor and then place one of your fingers on the sensor to enroll it. 
 
-Step #3
+Step #3 <br />
 Correctly wire the keypad onto the Arduino board with the fingerprint sensor and servo motor connected from the previous step. In the code provided below, the 12th line states "char Master[Password_Length] = "37A23";" and you will be able to change the password to any five-digit or letter combination that you desire. Next, open the serial monitor and enter the correct password that you set up and enter it on the keypad, and "correct" appear on the serial monitor.
 
-Step #4
+Step #4 <br />
 Now that you enrolled your fingerprint on the fingerprint sensor and created a password for the keypad, you will be able to make the servo motor rotate. Open the serial monitor and place your correct fingerprint on the fingerprint sensor and wait until the serial monitor says it "found a print match." Next, enter the valid password on the keypad, and the servo motor will rotate.
 
 
