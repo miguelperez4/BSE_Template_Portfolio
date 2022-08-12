@@ -1,6 +1,8 @@
 ﻿# Fingerprint ID Safe with Keypad
 Safes need the best security to protect your valuables, and this safe will contain two different measures of safety: the fingerprint sensor and keypad. No one shares the same fingerprint pattern, so access to the safe is exclusive to you. The keypad will provide another layer of protection as only you will have memory of the code.
 
+# About Me
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Miguel Perez | Millennium Brooklyn High School | Electrical Engineering | Incoming Senior
@@ -53,6 +55,16 @@ Total cost: $113.53
 | Hot Glue Gun With Sticks  | 1  | $19.95  | https://www.amazon.com/Gorilla-8401509-Hot-Glue-Sticks/dp/B07K791YRP  |
 
 # Schematics
+
+
+# Building Process
+
+Step #1
+Download Arduino IDE for your respective operating systems (Windows or Mac) or open the Arduino Editor on your browser for a Chromebook.
+
+Step #2
+Correctly wire the fingerprint sensor and the servo motor onto the Arduino board by following the schematics. Next, download the Adafruit Fingerprint Library to upload the code "Enroll" and open the serial monitor. The fingerprint sensor should be lightning up, and you will have to type an ID number that you want to save your finger as onto the serial monitor and then place one of your fingers on the sensor to enroll it. 
+
 
 # Fingerprint ID Safe with Keypad Code
 
