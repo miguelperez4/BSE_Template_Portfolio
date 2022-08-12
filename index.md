@@ -38,7 +38,7 @@ My first milestone was enrolling my fingerprint onto the fingerprint module to m
 
 # Bill of Materials 
 
-Total cost: 
+Total cost: $113.53
 
 | Item | Qty | Price | Where to Buy |
 | ------------- | ------------- | ------------- | ------------- |
